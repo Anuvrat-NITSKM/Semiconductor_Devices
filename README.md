@@ -12,4 +12,4 @@ Resources for Semiconductor Devices
   - [JFET and MOSFET - All about electronics](https://www.youtube.com/playlist?list=PLwjK_iyK4LLC-tRT_Uml3T-ifdcmuykjV)
   
 - Book
-  - [Electronics Devices and Circuit Theory by Robert L. Boylestad|Louis Nashelsky]
+  - Electronics Devices and Circuit Theory by Robert L. Boylestad & Louis Nashelsky
