@@ -1,6 +1,9 @@
 # Semiconductor_Devices
 Resources for Semiconductor Devices
 
+- Notes
+  - [Tutorialspoint](https://www.tutorialspoint.com/semiconductor_devices/semiconductor_devices_introduction.htm)
+
 - Courses on NPTEL
   - [Solid State Devices by Dr. S. Karmalkar - IIT Madras](https://nptel.ac.in/courses/117/106/117106091/)
   - [Semiconductor Devices and Circuits by Prof. Sanjiv Sambandan - IISC Banglore](https://nptel.ac.in/courses/108/108/108108112/)
